@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Sirf ye base styling rakhein */
+body {
+  margin: 0;
+  padding: 0;
+}
